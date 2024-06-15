@@ -4,10 +4,10 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Roboto", "sans-serif"],
+        sans: ["Roboto", "sans-serif"], //set default font family
       },
       gridTemplateColumns: {
-        "70/30": "70% 28%",
+        "70/30": "70% 28%", // set default value
       },
     },
   },
