@@ -1,0 +1,88 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "location": "Colombo, Sri Lanka",
+      "description": "We are seeking a talented Front-End Developer to join our team in Colombo, Sri Lanka. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "salary": "LKR 1,200,000 - 1,400,000",
+      "company": {
+        "name": "Tech Innovators",
+        "description": "Tech Innovators is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@techinnovators.lk",
+        "contactPhone": "+94 11 234 5678"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Remote",
+      "location": "Kandy, Sri Lanka",
+      "description": "Join our team as a Front-End Developer in scenic Kandy, Sri Lanka. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "LKR 1,000,000 - 1,200,000",
+      "company": {
+        "name": "Veneer Creations",
+        "description": "Veneer Creations is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@veneercreations.lk",
+        "contactPhone": "+94 81 234 5678"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Internship",
+      "type": "Full-Time",
+      "location": "Galle, Sri Lanka",
+      "description": "Are you passionate about front-end development? Join our team in vibrant Galle, Sri Lanka, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "salary": "LKR 200,000 - LKR 300,000",
+      "company": {
+        "name": "Cloud Solutions",
+        "description": "Cloud Solutions is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@cloudsolutions.lk",
+        "contactPhone": "+94 91 234 5678"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Front-End Developer",
+      "type": "Part-Time",
+      "location": "Jaffna, Sri Lanka",
+      "description": "Join our team as a Part-Time Front-End Developer in Jaffna, Sri Lanka. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+      "salary": "LKR 800,000 - LKR 1,000,000",
+      "company": {
+        "name": "Alpha Webworks",
+        "description": "Alpha Webworks is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@alphawebworks.lk",
+        "contactPhone": "+94 21 234 5678"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack Developer",
+      "type": "Full-Time",
+      "location": "Negombo, Sri Lanka",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Negombo, Sri Lanka. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "salary": "LKR 1,400,000 - 1,600,000",
+      "company": {
+        "name": "TechWave Solutions",
+        "description": "TechWave Solutions is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@techwavesolutions.lk",
+        "contactPhone": "+94 31 234 5678"
+      }
+    },
+    {
+      "id": "6",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "location": "Colombo, Sri Lanka",
+      "description": "Join our team as a Front-End Developer in beautiful Matara, Sri Lanka. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "salary": "LKR 1,800,000 - 2,000,000",
+      "company": {
+        "name": "Southern Tech",
+        "description": "Southern Tech is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@southerntech.lk",
+        "contactPhone": "+94 41 234 5678"
+      }
+    }
+  ]
+}
