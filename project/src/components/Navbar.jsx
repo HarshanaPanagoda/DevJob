@@ -4,8 +4,8 @@ import logo from "../assets/LOGO.png";
 const Navbar = () => {
   const linkClass = ({ isActive }) =>
     isActive
-      ? "bg-black text-white hover:bg-gray-900 hover:text-white rounded-md px-3 py-2"
-      : "text-white hover:bg-gray-900 hover:text-white rounded-md px-3 py-2";
+      ? " text-black font-bold rounded-md px-3 py-2"
+      : "text-white hover:text-black rounded-md px-3 py-2";
 
   return (
     <nav className="fixed top-0 left-0 w-full bg-blue-500 border-b border-blue-400 bg-opacity-60 backdrop-blur-lg backdrop-filter shadow-lg z-50">
